@@ -1476,7 +1476,6 @@ apis.com.br
 ymsdk.apkcar.com
 app-adforce.jp
 analytics.app-adforce.jp
-app-measurement.com
 app.link
 mangarock.app.link
 mangarock-alternate.app.link
